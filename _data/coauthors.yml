@@ -1,0 +1,34 @@
+# Key collaborators — al-folio uses this to hyperlink author names in publication entries
+# Format: lowercase last name → firstname variants + profile URL
+
+"ni":
+  - firstname: ["Yang"]
+    url: https://www.pnw.edu/person/yang-ni/
+
+"toth":
+  - firstname: ["Kyle", "K."]
+    url: https://www.pnw.edu/person/kyle-toth/
+
+"zhou":
+  - firstname: ["Chenn", "Chenn Q.", "C. Q."]
+    url: https://www.pnw.edu/person/chenn-zhou/
+
+"polra":
+  - firstname: ["Jay", "J."]
+    url: https://dhwanil832.github.io/publications/
+
+"huang":
+  - firstname: ["Wenjun", "W."]
+    url: https://scholar.google.com/
+
+"wang":
+  - firstname: ["Xianhui", "X."]
+    url: https://scholar.google.com/
+
+"patel":
+  - firstname: ["Sachin", "S."]
+    url: https://www.charusat.ac.in/
+
+"pu":
+  - firstname: ["Qingyun", "Q."]
+    url: https://dhwanil832.github.io/publications/

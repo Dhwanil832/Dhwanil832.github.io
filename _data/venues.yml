@@ -1,0 +1,39 @@
+"CVPR Workshop":
+  url: https://cvpr.thecvf.com/
+  color: "#1565C0"
+
+"AISTech":
+  url: https://www.aist.org/aisttech
+  color: "#B71C1C"
+
+"TPAMI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#1B5E20"
+
+"ACL":
+  url: https://www.aclweb.org/
+  color: "#4A148C"
+
+"ICSMDI":
+  url: https://ieeexplore.ieee.org/
+  color: "#E65100"
+
+"ICSSAS":
+  url: https://ieeexplore.ieee.org/
+  color: "#E65100"
+
+"ICAIIHI":
+  url: https://ieeexplore.ieee.org/
+  color: "#E65100"
+
+"I-SMAC":
+  url: https://ieeexplore.ieee.org/
+  color: "#E65100"
+
+"SEET":
+  url: https://link.springer.com/
+  color: "#33691E"
+
+"Springer":
+  url: https://link.springer.com/
+  color: "#33691E"

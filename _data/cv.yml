@@ -1,0 +1,183 @@
+cv:
+  name: Dhwanil R. Chauhan
+  label: Graduate Researcher · Multimodal AI & Agentic Systems
+  email: chauha56@purdue.edu
+  location: Hammond, IN
+  image: ""
+  summary: >
+    Graduate researcher at the Center for Innovation Through Visualization and Simulation (CIVS),
+    Purdue University Northwest. My research focuses on multimodal AI, audio-visual learning,
+    and multi-agent systems — building intelligent systems that perceive, reason, and act in
+    real-world industrial environments. Published at CVPR Workshop 2026 and AISTech 2025/2026.
+    Two papers in preparation targeting IEEE TPAMI and ACL.
+
+  social_networks:
+    - network: GitHub
+      username: Dhwanil832
+    - network: LinkedIn
+      username: dhwanil-chauhan
+    - network: Google Scholar
+      username: rGG7kXMAAAAJ
+
+  sections:
+    Publications:
+      - title: "Visual Geometry Grounded Novel-View Acoustic Synthesis"
+        authors:
+          - Jay Polra
+          - Dhwanil Chauhan
+          - Wenjun Huang
+          - Kyle Toth
+          - Xianhui Wang
+          - Yang Ni
+        publisher: CVPR Workshop 2026
+        releaseDate: 2026
+        url: https://dhwanilchauhan.me/publications/
+        summary: >
+          First unified framework for novel-view acoustic synthesis bypassing explicit 3D reconstruction
+          via feed-forward visual geometry grounding. Contribution: designed the VGGT output representation
+          and formulated the Q/K structure of the Geometry-Grounded Acoustic Decoder (GGAD) cross-attention mechanism.
+
+      - title: "Development of Trialing Image Detection for a Melt Shop Safety Tool"
+        authors:
+          - Kyle Toth
+          - Jay Polra
+          - Dhwanil Chauhan
+          - Yang Ni
+          - Chenn Zhou
+          - Conrad Fisher
+          - Garrett Page
+        publisher: AISTech 2026
+        releaseDate: 2026
+        url: https://dhwanilchauhan.me/publications/
+        summary: >
+          Multi-camera perception system for dynamic safety zone reconfiguration in active industrial
+          environments. Contribution: developed the rule-based spatial reasoning engine fusing four
+          camera perspectives to redefine safety boundaries from outermost detected blocker positions.
+
+      - title: "Artificial Intelligence-Assisted Accident Investigation: Improving Safety Reporting with LLMs"
+        authors:
+          - Qingyun Pu
+          - Dhwanil Chauhan
+          - John Moreland
+          - Kyle Toth
+          - Chenn Zhou
+          - Erik Archer
+          - Nathan Berry
+        publisher: AISTech 2025
+        releaseDate: 2025
+        url: https://dhwanilchauhan.me/publications/
+        summary: >
+          Conversational AI system for industrial safety incident management with context-aware dialogue
+          and dynamic action sequencing. Contribution: designed and implemented the conversational AI
+          backend — monolithic Django pipeline handling context retention, dialogue state, and action sequencing.
+
+      - title: "VLM Robustness Benchmark Under Simultaneous Multimodal Degradation"
+        authors:
+          - Dhwanil Chauhan
+        publisher: "In Preparation — Targeting IEEE TPAMI / IJCV"
+        releaseDate: 2026
+        summary: >
+          Lead researcher. Systematic evaluation of 20 vision-language models under controlled simultaneous
+          visual and linguistic corruption conditions; novel text corruption module and structured evaluation pipeline.
+
+      - title: "AI-Assisted Accident Investigation V2: Multi-Agent Architecture Benchmark"
+        authors:
+          - Dhwanil Chauhan
+        publisher: "In Preparation — Targeting ACL"
+        releaseDate: 2026
+        summary: >
+          Architectural evolution from monolithic pipeline to modular multi-agent system; on-premise LLM
+          evaluation benchmark for industrial agentic deployment.
+
+    Experience:
+      - company: Center for Innovation Through Visualization and Simulation (CIVS)
+        position: Graduate Research Assistant
+        location: Purdue University Northwest, Hammond, IN
+        start_date: 2024-08
+        end_date: present
+        summary: >
+          Research at the intersection of multimodal AI and industrial safety, in partnership with
+          the Steel Manufacturing Simulation and Visualization Consortium (SMSVC).
+        highlights:
+          - Built a conversational AI system guiding supervisors through structured incident capture via natural dialogue, replacing fragmented manual safety reporting across incident types spanning crane failures, pinch points, and equipment damage. (AISTech 2025; V2 targeting ACL)
+          - Developed a multi-camera spatial reasoning system dynamically redefining safety zone boundaries from live equipment positions, enabling proactive hazard detection before incidents occur. (AISTech 2026)
+          - Contributed core architectural components of a feed-forward framework synthesizing geometrically accurate binaural audio from standard video for industrial safety simulation. (CVPR Workshop 2026)
+
+      - company: Untapped Ventures
+        position: AI Research Analyst
+        location: Remote
+        start_date: 2025-07
+        end_date: 2025-12
+        highlights:
+          - Designed three investment-decision LLM agents (Pre-Seed, Seed, Studio) that ingest heterogeneous pitch materials and generate structured invest/pass recommendations against a formalized multi-stage evaluation rubric.
+          - Built an automated screening pipeline with multi-source retrieval and LLM-based scoring (1–100 scale); three-tier confidence routing triggered autonomous outreach above 67, analyst review between 40–67, and batched triage below 40.
+          - Iterated through prompt engineering cycles to improve structured output reliability and context retention, developing applied intuitions around LLM failure modes in multi-step reasoning pipelines.
+
+    Education:
+      - institution: Purdue University Northwest
+        location: Hammond, IN
+        url: https://www.pnw.edu/
+        area: Computer Science
+        studyType: Master of Science
+        start_date: 2024-08
+        end_date: 2026-05
+        score: "GPA: 3.84"
+        highlights:
+          - "Thesis track under Prof. Yang Ni"
+          - "Research focus: Multimodal AI, Audio-Visual Learning, Multi-Agent Systems"
+
+      - institution: Charotar University of Science and Technology (CHARUSAT)
+        location: Gujarat, India
+        url: https://www.charusat.ac.in/
+        area: Computer Science
+        studyType: Bachelor of Technology
+        start_date: 2020  # UPDATE IF DIFFERENT
+        end_date: 2024    # UPDATE IF DIFFERENT
+        highlights:
+          - "9 publications across ML domains including security, medical imaging, and NLP"
+          - "ACM Student Body President"
+          - "Training and Placement Coordinator"
+
+    Skills:
+      - name: Research Areas
+        level: ""
+        icon: fa-solid fa-brain
+        keywords: "Multimodal AI, Vision-Language Models, Audio-Visual Learning, Multi-Agent Systems, Industrial AI Safety, Agentic Pipelines, Robustness Evaluation"
+
+      - name: Frameworks & Tools
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenCV, VGGT"
+
+      - name: Languages
+        level: ""
+        icon: fa-solid fa-terminal
+        keywords: "Python, SQL, JavaScript, LaTeX"
+
+      - name: Infrastructure
+        level: ""
+        icon: fa-solid fa-server
+        keywords: "Multi-GPU Training, REST APIs, Docker, Git"
+
+    Academic Service:
+      - company: Neural Computing and Applications
+        position: Peer Reviewer
+        location: Springer Nature
+        start_date: 2024
+        end_date: present
+
+      - company: International Journal of Computing and Digital Systems (IJCDS)
+        position: Peer Reviewer
+        location: ""
+        start_date: 2024
+        end_date: present
+
+    Languages:
+      - name: English
+        summary: "Professional working proficiency"
+
+      - name: Gujarati
+        summary: "Native speaker"
+
+      - name: Hindi
+        summary: "Fluent"
