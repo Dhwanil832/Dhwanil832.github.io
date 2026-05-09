@@ -6,8 +6,8 @@ subtitle: Graduate Research Assistant · <a href="https://civs.pnw.edu/" target=
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false
+  image: dhwanil_fixed.png
+  image_circular: true
   more_info: >
     <p>chauha56@purdue.edu</p>
     <p>Hammond, Indiana</p>
@@ -35,6 +35,6 @@ My work is grounded in an active industrial research partnership through the Ste
 - **VLM robustness** — I am leading a benchmark evaluating 20 vision-language models under simultaneous visual and linguistic degradation conditions, targeting IEEE TPAMI / IJCV.
 - **Multi-agent agentic systems** — I am rebuilding our industrial safety AI from a monolithic pipeline into a modular multi-agent architecture, targeting ACL.
 
-Before Purdue, I completed my undergraduate studies at Charotar University of Science and Technology (CHARUSAT), India, where I published across a range of ML domains — security, medical imaging, and natural language — building a foundation in research process before finding the problems that would define my direction.
+Before Purdue, I completed my undergraduate studies at Charotar University of Science and Technology (CHARUSAT), India, where I published across a range of ML domains, security, medical imaging, and natural language, building a foundation in research process before finding the problems that would define my direction.
 
 I am applying to PhD programs for Fall 2027, seeking to work on multimodal agentic systems that are robust, grounded, and deployable in high-stakes real-world settings. If our work overlaps, I would love to connect.

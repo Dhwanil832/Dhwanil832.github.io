@@ -3,7 +3,7 @@
 
 "ni":
   - firstname: ["Yang"]
-    url: https://www.pnw.edu/person/yang-ni/
+    url: https://yang-ni-yn.github.io/
 
 "toth":
   - firstname: ["Kyle", "K."]
@@ -15,7 +15,7 @@
 
 "polra":
   - firstname: ["Jay", "J."]
-    url: https://dhwanil832.github.io/publications/
+    url: https://www.datascienceportfol.io/jpolraa
 
 "huang":
   - firstname: ["Wenjun", "W."]
@@ -27,8 +27,12 @@
 
 "patel":
   - firstname: ["Sachin", "S."]
-    url: https://www.charusat.ac.in/
+    url: https://www.linkedin.com/in/sachinpateldev/
 
 "pu":
   - firstname: ["Qingyun", "Q."]
     url: https://dhwanil832.github.io/publications/
+
+"shah":
+  - firstname: ["Margi", "M."]
+    url: https://margishah18.github.io/

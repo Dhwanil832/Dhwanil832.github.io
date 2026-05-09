@@ -140,22 +140,22 @@ cv:
 
     Skills:
       - name: Research Areas
-        level: ""
+        level: 
         icon: fa-solid fa-brain
         keywords: "Multimodal AI, Vision-Language Models, Audio-Visual Learning, Multi-Agent Systems, Industrial AI Safety, Agentic Pipelines, Robustness Evaluation"
 
       - name: Frameworks & Tools
-        level: ""
+        level: 
         icon: fa-solid fa-code
         keywords: "PyTorch, Hugging Face Transformers, LangChain, LangGraph, OpenCV, VGGT"
 
       - name: Languages
-        level: ""
+        level: 
         icon: fa-solid fa-terminal
         keywords: "Python, SQL, JavaScript, LaTeX"
 
       - name: Infrastructure
-        level: ""
+        level: 
         icon: fa-solid fa-server
         keywords: "Multi-GPU Training, REST APIs, Docker, Git"
 
@@ -168,7 +168,7 @@ cv:
 
       - company: International Journal of Computing and Digital Systems (IJCDS)
         position: Peer Reviewer
-        location: ""
+        location: UBahrain
         start_date: 2024
         end_date: present
 
