@@ -24,9 +24,9 @@ latest_posts:
   enabled: false # blog disabled
 ---
 
-I am a graduate researcher at the [Center for Innovation Through Visualization and Simulation (CIVS)](https://civs.pnw.edu/) at Purdue University Northwest, advised by [Yang Ni](https://www.pnw.edu/person/yang-ni/). My research sits at the intersection of multimodal AI, audio-visual learning, and multi-agent systems — with a focus on building intelligent systems that can **perceive, reason, and act in real-world environments**.
+I am a graduate researcher at the [Center for Innovation Through Visualization and Simulation (CIVS)](https://civs.pnw.edu/) at Purdue University Northwest, advised by [Yang Ni](https://www.pnw.edu/person/yang-ni/). My research sits at the intersection of multimodal AI, audio-visual learning, and multi-agent systems, with a focus on building intelligent systems that can **perceive, reason, and act in real-world environments**.
 
-My work is grounded in an active industrial research partnership through the Steel Manufacturing Simulation and Visualization Consortium (SMSVC), where I develop AI systems that address real safety and operational challenges in manufacturing environments. This applied context shapes how I think about research — reliability, deployment constraints, and robustness are not afterthoughts but design requirements.
+My work is grounded in an active industrial research partnership through the Steel Manufacturing Simulation and Visualization Consortium (SMSVC), where I develop AI systems that address real safety and operational challenges in manufacturing environments. This applied context shapes how I think about research, reliability, deployment constraints, and robustness are not afterthoughts but design requirements.
 
 **Current research threads:**
 
